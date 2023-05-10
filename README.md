@@ -1,7 +1,3 @@
-Exp: 07
-
-Date:18.10.2022
-
 # Exercise-07-Multiplexer-and-De-multiplexer
 ## AIM: 
 To implement 4 X1 multiplexer and 1X4 de multiplexer using verilog and validate its outputs
